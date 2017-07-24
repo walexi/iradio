@@ -9,3 +9,9 @@ Following these guidelines helps to communicate that you respect the time of the
 Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
 
 iRadio is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into iRadio itself.
+
+1.  Fork it!
+2.  Create your feature branch: git checkout -b my-new-feature
+3.  Commit your changes: git commit -m 'Add some feature'
+4.  Push to the branch: git push origin my-new-feature
+5.  Submit a pull request :)
