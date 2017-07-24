@@ -1,6 +1,10 @@
 # iradio
 This is a template for an internet radio site. It's optimized as a web client for an Icecast server.
 
+See demo here https://walexi.github.io/iradio/
+
+iradio/demo.png
+
 To use this
 
 1.  Edit the main.js file in the js directory
@@ -13,4 +17,5 @@ To use this
 
 Credits:
 jplayer https://github.com/jplayer/jPlayer
+
 zen player https://github.com/simurai/ZEN-Player
