@@ -1,0 +1,16 @@
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1;
+	}
+
+/* Header */
+
+	#header {
+		opacity: 1;
+	}
+
+		#header nav li {
+			opacity: 1;
+		}
