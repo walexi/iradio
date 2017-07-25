@@ -1,14 +1,16 @@
-Introduction
 
-
-First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+:+1::tada: First off, thanks for taking the time to contribute! It's people like you that make iRadio such a great project.:tada::+1:
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 
 Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
 
+
 iRadio is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into iRadio itself.
+
+
+The following is a set of guidelines for contributing to this project. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 1.  Fork it!
 2.  Create your feature branch: git checkout -b my-new-feature
